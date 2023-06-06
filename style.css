@@ -1,0 +1,13 @@
+body{
+    text-align:center;  
+    background-color:black;
+}
+h1{
+    font-size:50px;
+    font-weight:bold;
+    color:white
+}
+img{
+    width:420px;
+    height:630px;
+}
